@@ -83,7 +83,7 @@ _Vidéo:_ [Vue d'ensemble du flux de travail](https://www.youtube.com/watch?v=Hh
 ### Résumé  
 Aperçu du déroulement des opérations de PMA sur GitHub et comment les Organizations PMA_DM et des pays interagissent
 
-#### A la fin de la vidéo, vous devriez :
+#### A la fin de la vidéo, vous devriez être en mesure de :
 - Comprendre le déroulement des opérations Git de PMA
 - Comprendre la relation entre les différentes Organizations de PMA sur GitHub 
 
